@@ -22,12 +22,12 @@
 ### 1. Use Case Model
 The application architecture enforces strict role-based access control across four distinct user personas (Patient, Doctor, Receptionist, Clinic Admin).
 
-![Use Case Diagram](./Architecture_Models/UseCase_CareBook.png)
+![Use Case Diagram](./Architectural_models/UseCase_CareBook.png)
 
 ### 2. High-Fidelity Interface Wireframe
 Designed around functional business rules to support real-time availability updates and instant visual blocking of previously allocated slots to avoid overlapping reservation bugs.
 
-![CareBook Wireframe](./Wireframes/CareBook_Wireframe.png)
+![CareBook Wireframe](./wireframes/CareBook_Wireframe.png)
 
 ---
 
